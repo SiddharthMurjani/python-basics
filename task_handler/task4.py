@@ -1,1 +1,2 @@
-RE-FUELING SHIP
+def absolute(a, b):
+  return a%b
