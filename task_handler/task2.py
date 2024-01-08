@@ -1,1 +1,2 @@
-TRUCK LOADING CONTAINER
+def mul (a, b):
+  return a*b
