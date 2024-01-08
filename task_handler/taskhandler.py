@@ -20,11 +20,11 @@ class TaskHandler(object):
                            }
 
 
-        self.task_list = {'SHIP DOCKING': 0,
-                          'RE-FUELING SHIP': 0,
-                          'UNLOADING VESSEL': 0,
-                          'TRUCK LOADING CONTAINER': 0,
-                          'CUSTOMS CHECK': 0
+        self.task_list = {'add': 0,
+                          'sub': 0,
+                          'mul': 0,
+                          'divide': 0,
+                          'absolute': 0
                          }
 
 
