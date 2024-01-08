@@ -1,1 +1,2 @@
-SHIP DOCKING
+def add(a, b):
+  return a+b
